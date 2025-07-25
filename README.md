@@ -41,13 +41,13 @@ Open your browser and visit `http://localhost:5173` to view the application.
 
 ## Screenshots or Demo
 
-[Home Page Light Mode](Screenshots/home-light.png)
+![Home Page Light Mode](Screenshots/home-light.png)
 
-[Home Page Dark Mode](Screenshots/home-dark.png)
+![Home Page Dark Mode](Screenshots/home-dark.png)
 
-[Products Page](Screenshots/products.png)
+![Products Page](Screenshots/products.png)
 
-[Product Details Page](Screenshots/product.png)
+![Product Details Page](Screenshots/product.png)
 
 ## Tech Stack Used
 
